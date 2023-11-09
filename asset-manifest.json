@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_upload/static/css/main.f6c270f1.css",
+    "main.js": "/react_upload/static/js/main.2d4366b3.js",
+    "static/media/spani.png": "/react_upload/static/media/spani.b0283678188bcca350c8.png",
+    "static/media/spani2.png": "/react_upload/static/media/spani2.61040e8ad428a3415b8e.png",
+    "index.html": "/react_upload/index.html",
+    "main.f6c270f1.css.map": "/react_upload/static/css/main.f6c270f1.css.map",
+    "main.2d4366b3.js.map": "/react_upload/static/js/main.2d4366b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6c270f1.css",
+    "static/js/main.2d4366b3.js"
+  ]
+}
